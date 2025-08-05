@@ -1,34 +1,56 @@
 
-<!-- GIF de abertura animado, com vibe de poema e energia -->
+<!-- GIF principal animado -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCVXo0zpmQ95I2A/giphy.gif" width="300" alt="Poema animado" />
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="Energia e força" />
 </p>
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  Olá, eu sou o <span style="color:#FF4500;">Luis Filipe</span> 👊
+<h1 align="center" style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-weight: 900; letter-spacing: 3px; color:#FF4500;">
+  LUÍS FILIPE
 </h1>
 
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:16px; max-width:650px; margin:auto;">
-  Sou um cara feliz no simples, mas que corre atrás de tudo que tenho.<br />
-  Vendas me trouxeram tudo o que conquistei até hoje.<br />
-  Consultor de vendas de planos de saúde 🩺 — presencial e pela internet.<br />
-  Estudo Marketing & Ciência de Dados no 3º semestre na Uniceplac.<br />
-  Curto música 🎵, filmes 🎬, livros 📚 e poemas ✍️.<br />
-  E não perco um jogo de futebol ⚽.
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; max-width: 700px; margin: auto; color:#222;">
+  <strong>Consultor de vendas de plano de saúde</strong> 🩺 <br />
+  3º semestre de Marketing & Ciência de Dados na <a href="https://www.uniceplac.edu.br/" target="_blank" style="color:#FF4500; text-decoration:none;">Uniceplac</a> 🎓<br />
+  Determinado, comunicativo e sempre em movimento.<br />
+  Apaixonado por vendas, psicologia, futebol, música, filmes, livros e claro, por crescer na vida e no dinheiro 💰.<br />
+  Vendo presencialmente e pela internet — porque oportunidade não espera.
 </p>
 
 ---
 
-## 💥 Minhas qualidades e paixões
+## 🚀 Minhas forças e diferenciais
 
-- 🏆 Consultor de vendas focado em resultados e atendimento que transforma  
-- 🗣️ Apaixonado por comunicação, conversa boa e psicologia aplicada  
-- 📱 Vendas presenciais e também pela internet — na prática e no dia a dia  
-- 🎧 Música, filmes, livros e poemas fazem parte do meu universo  
-- ⚽ Futebol, esporte que alimenta corpo e mente  
-- 💰 Foco total em crescimento, dinheiro e liberdade  
+<table align="center" style="max-width:700px; width:100%; margin: 20px auto; border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding:15px;">
+      <img src="https://img.icons8.com/ios-filled/48/FF4500/sales-performance.png" alt="Vendas" />
+      <h3 style="margin:8px 0 0 0; color:#FF4500;">Vendas Presenciais & Online</h3>
+      <p style="font-size:14px; max-width:180px;">Atendimento focado em resultados e relacionamento.</p>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://img.icons8.com/ios-filled/48/FF4500/communication.png" alt="Comunicação" />
+      <h3 style="margin:8px 0 0 0; color:#FF4500;">Comunicação & Psicologia</h3>
+      <p style="font-size:14px; max-width:180px;">Saber falar, entender o outro e conectar.</p>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://img.icons8.com/ios-filled/48/FF4500/data.png" alt="Dados" />
+      <h3 style="margin:8px 0 0 0; color:#FF4500;">Marketing & Ciência de Dados</h3>
+      <p style="font-size:14px; max-width:180px;">Estudando para unir estratégia com tecnologia.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:15px;">
+      <img src="https://img.icons8.com/ios-filled/48/FF4500/soccer-ball.png" alt="Futebol" />
+      <h3 style="margin:8px 0 0 0; color:#FF4500;">Futebol</h3>
+      <p style="font-size:14px; max-width:180px;">Energia, disciplina e paixão fora do campo.</p>
+    </td>
+    <td align="center" style="padding:15px;">
+      <img src="https://img.icons8.com/ios-filled/48/FF4500/musical-notes.png" alt="Música" />
+      <h3 style="margin:8px 0 0 0; color:#FF4500;">Música & Filmes</h3>
+      <p style="font-size:14px; max-width:180px;">Inspiração constante para criar e crescer.</p>
+    </td>
+    <td align="center"
 
----
 
 ## ✨ Poema que me define
 
