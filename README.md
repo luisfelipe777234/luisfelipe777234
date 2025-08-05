@@ -1,109 +1,83 @@
-
-<!-- GIF principal animado -->
+<!-- Banner animado ou imagem de destaque -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="350" alt="Energia e força" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Bem-vindo ao meu GitHub!">
 </p>
 
-<h1 align="center" style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-weight: 900; letter-spacing: 3px; color:#FF4500;">
-  LUÍS FILIPE
-</h1>
-
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; max-width: 700px; margin: auto; color:#222;">
-  <strong>Consultor de vendas de plano de saúde</strong> 🩺 <br />
-  3º semestre de Marketing & Ciência de Dados na <a href="https://www.uniceplac.edu.br/" target="_blank" style="color:#FF4500; text-decoration:none;">Uniceplac</a> 🎓<br />
-  Determinado, comunicativo e sempre em movimento.<br />
-  Apaixonado por vendas, psicologia, futebol, música, filmes, livros e claro, por crescer na vida e no dinheiro 💰.<br />
-  Vendo presencialmente e pela internet — porque oportunidade não espera.
-</p>
-
----
-
-## 🚀 Minhas forças e diferenciais
-
-<table align="center" style="max-width:700px; width:100%; margin: 20px auto; border-collapse: collapse;">
-  <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://img.icons8.com/ios-filled/48/FF4500/sales-performance.png" alt="Vendas" />
-      <h3 style="margin:8px 0 0 0; color:#FF4500;">Vendas Presenciais & Online</h3>
-      <p style="font-size:14px; max-width:180px;">Atendimento focado em resultados e relacionamento.</p>
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://img.icons8.com/ios-filled/48/FF4500/communication.png" alt="Comunicação" />
-      <h3 style="margin:8px 0 0 0; color:#FF4500;">Comunicação & Psicologia</h3>
-      <p style="font-size:14px; max-width:180px;">Saber falar, entender o outro e conectar.</p>
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://img.icons8.com/ios-filled/48/FF4500/data.png" alt="Dados" />
-      <h3 style="margin:8px 0 0 0; color:#FF4500;">Marketing & Ciência de Dados</h3>
-      <p style="font-size:14px; max-width:180px;">Estudando para unir estratégia com tecnologia.</p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:15px;">
-      <img src="https://img.icons8.com/ios-filled/48/FF4500/soccer-ball.png" alt="Futebol" />
-      <h3 style="margin:8px 0 0 0; color:#FF4500;">Futebol</h3>
-      <p style="font-size:14px; max-width:180px;">Energia, disciplina e paixão fora do campo.</p>
-    </td>
-    <td align="center" style="padding:15px;">
-      <img src="https://img.icons8.com/ios-filled/48/FF4500/musical-notes.png" alt="Música" />
-      <h3 style="margin:8px 0 0 0; color:#FF4500;">Música & Filmes</h3>
-      <p style="font-size:14px; max-width:180px;">Inspiração constante para criar e crescer.</p>
-    </td>
-    <td align="center"
-
-
-## ✨ Poema que me define
-
-<p align="center" style="font-style: italic; font-size: 18px; max-width: 600px; margin: 20px auto;">
-  <em>
-    Feliz no simples, mas sempre a correr,<br/>
-    Buscando a vida que vim merecer.<br/>
-    Vendas me deram chão e visão,<br/>
-    Cada passo é feita com coração.<br/><br/>
-    Música, filmes, versos e jogadas,<br/>
-    Livros e campo, as paixões amadas.<br/>
-    No marketing e dados vou crescer,<br/>
-    E na batalha da vida, só vou vencer.
-  </em>
-</p>
-
----
-
-## 🚀 Atualmente estudando
+<h1 align="center">Fala aí, eu sou o Luis Filipe 👋</h1>
 
 <p align="center">
-  <img alt="Marketing" src="https://img.shields.io/badge/Marketing-FC8019?style=for-the-badge&logo=marketing&logoColor=white" />
-  <img alt="Data Science" src="https://img.shields.io/badge/Ciência_de_Dados-1F8ACB?style=for-the-badge&logo=databricks&logoColor=white" />
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> 👨‍💻<br>
+  Consultor de Vendas de Planos de Saúde 🩺<br>
+  Atuação em vendas <strong>presenciais</strong> e <strong>online</strong> 📞🧑‍💼<br>
+  Apaixonado por pessoas, comunicação, psicologia, futebol, livros e dinheiro 💰<br>
+  📍 Brasília - DF | 💼 Uniceplac - 3º Semestre
 </p>
 
 ---
 
-## 📊 Meus números no GitHub
+## 💼 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [Uniceplac](https://www.uniceplac.edu.br/)
+- 💼 Consultor de **vendas presenciais e online** com foco em planos de saúde
+- 🧠 Estudioso da **psicologia comportamental aplicada às vendas**
+- 🗣️ Comunicador nato: gosto de falar, explicar, influenciar e ouvir
+- 🎯 Determinado a crescer profissionalmente com estratégia e atitude
+- ⚽ Nas horas vagas? Futebol, música, poemas, livros e boas conversas
+- 💸 Foco no progresso, aprendizado contínuo e liberdade financeira
+
+---
+
+## 🚀 Minhas Habilidades
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Vendas%20Presenciais-Dominando-blue?style=flat&logo=verizon">
+  <img src="https://img.shields.io/badge/Comunicação-Clareza%20e%20Conexão-brightgreen?style=flat&logo=googlechat">
+  <img src="https://img.shields.io/badge/Psicologia-Comportamental-yellow?style=flat&logo=psychologytoday">
+  <img src="https://img.shields.io/badge/Internet-Marketing-red?style=flat&logo=firefoxbrowser">
+</p>
+
+---
+
+## 🛠️ Estudando Atualmente
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-ADS-important?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-e%20CSS3-informational?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-Aprendendo-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisfilipe&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilipe&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisfilipe&show_icons=true&theme=gruvbox" width="450">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilipe&theme=gruvbox" width="400">
 </p>
 
 ---
 
-## 📫 Vamos se conectar?
+## ✨ Frase que me inspira
+
+> _"Tudo o que a mente humana pode conceber e acreditar, ela pode conquistar."_  
+> — **Napoleon Hill**
+
+---
+
+## 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuisFilipe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
+[![Instagram](https://img.shields.io/badge/@luisfilipe__oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55)
+
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luisfilipe" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LuisFilipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/luisfilipe_oficial" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@luisfilipe__oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://wa.me/55" target="_blank">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Me_Chama-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300">
 </p>
 
----
-
-<p align="center" style="font-size:12px; color:#888;">
-  Feito com garra, coragem e atitude por <strong>Luis Filipe</strong> 💥🔥
+<p align="center">
+  Feito com 💪 atitude e garra por <strong>Luis Filipe</strong>
 </p>
+
 
