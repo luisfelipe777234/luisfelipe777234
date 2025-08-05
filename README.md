@@ -1,90 +1,85 @@
-<!-- Banner animado ou imagem de destaque -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Bem-vindo ao meu GitHub!">
-</p>
 
-<h1 align="center">Fala aí, eu sou o Luis Filipe 👊</h1>
 
 <p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> 💻<br>
-  Consultor de vendas de planos de saúde 🏥<br>
-  Vendas <strong>presenciais</strong> e também pela <strong>internet</strong> 💬<br>
-  Gosto de falar, de vender, de gente, de psicologia e de ganhar dinheiro 💸<br>
-  Futebol, música, poemas e livros também fazem parte da minha caminhada 🎵📖⚽<br>
-  📍 Brasília - DF | 3º Semestre na Uniceplac
+  <img src="https://media.giphy.com/media/3o7aCVXo0zpmQ95I2A/giphy.gif" width="300" alt="Poema Animado">
+</p>
+
+<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif;">
+  Olá, eu sou o <span style="color:#FF4500;">Luis Filipe</span> 👋
+</h1>
+
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size:16px;">
+  Sou um cara feliz no simples, mas que corre atrás de tudo que quer.<br>
+  <strong>Vendas</strong> me trouxe muito — sou consultor de planos de saúde 🩺<br>
+  Curto música 🎵, filmes 🎬, livros 📚 e poemas ✍️<br>
+  Jogo futebol ⚽ e estudo Marketing & Ciência de Dados no 3º período na Uniceplac.<br><br>
 </p>
 
 ---
 
-## ⚡ Sobre mim
+## 💪 Minhas forças
 
-- 💼 Trabalho com **vendas presenciais** (plano de saúde)
-- 🧠 Gosto de **psicologia**, principalmente na hora de vender
-- 🗣️ Me amarro em **conversar**, trocar ideia e me comunicar
-- 📲 Vendo também pela internet (porque o mundo gira)
-- 🕹️ Jogo um futebol, curto uma música, escrevo uns poemas
-- 💰 Tenho vontade de crescer, aprender o que for útil e **viver bem**
+- 💼 Consultor de vendas presencial e online de plano de saúde  
+- 🎯 Determinação para correr atrás dos meus objetivos  
+- 🗣️ Comunicação que conecta e inspira confiança  
+- 🎧 Amante de música que motiva, filmes que ensinam e livros que transformam  
+- ⚽ Futebol como paixão e energia para a vida  
 
 ---
 
-## 👊 O que eu curto
+## ✨ Um poema que me define
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Vendas-Gosto%20demais-blue?style=flat&logo=verizon">
-  <img src="https://img.shields.io/badge/Psicologia-Interessante-yellow?style=flat&logo=psychologytoday">
-  <img src="https://img.shields.io/badge/Futebol-Sempre%20que%20dá-green?style=flat&logo=fifa">
-  <img src="https://img.shields.io/badge/M%C3%BAsica-N%C3%A3o%20vivo%20sem-red?style=flat&logo=spotify">
-  <img src="https://img.shields.io/badge/Poemas%20&%20Livros-Quando%20bate%20a%20vibe-orange?style=flat&logo=bookstack">
+<p align="center" style="font-style: italic; font-size: 18px; max-width: 600px; margin: auto;">
+  <em>
+    Feliz no simples, mas sem nunca parar,<br>
+    Corro atrás do sonho que vim buscar.<br>
+    Vendas me trouxeram o que sonhei,<br>
+    A vida é jogo, e eu sei jogar.<br><br>
+    Música, filmes, poemas a me guiar,<br>
+    Livros e futebol pra alma alimentar.<br>
+    No marketing e dados vou me aprofundar,<br>
+    E na batalha da vida, sempre vou lutar.
+  </em>
 </p>
 
 ---
 
-## 📚 Faculdade
-
-🎓 Faço **Análise e Desenvolvimento de Sistemas** no [Uniceplac](https://www.uniceplac.edu.br/)  
-📍 3º semestre — aprendendo no meu tempo, sem pressa, sem pressão.
-
----
-
-## 🛠️ No momento, aprendendo...
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-ADS-informational?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML%20%26%20CSS-Básico-important?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-Primeiros%20passos-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-</p>
-
----
-
-## 📈 GitHub Stats
+## 🎯 Atualmente estudando
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisfilipe&show_icons=true&theme=radical" width="450">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilipe&theme=radical" width="400">
+  <img alt="Marketing" src="https://img.shields.io/badge/Marketing-FC8019?style=for-the-badge&logo=marketing&logoColor=white" />
+  <img alt="Data Science" src="https://img.shields.io/badge/Ciência_de_Dados-1F8ACB?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
 
-## ✨ Frase que combina comigo
-
-> _"Falo bem, vendo bem, vivo do meu jeito."_  
-> — **Luis Filipe (por que não?)**
-
----
-
-## 📲 Fala comigo
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuisFilipe-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)  
-[![Instagram](https://img.shields.io/badge/@luisfilipe__oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Me%20chama-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55)
-
----
+## 📊 Meus números no GitHub
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="300">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisfilipe&show_icons=true&theme=dark" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luisfilipe&theme=dark" width="400" />
 </p>
 
+---
+
+## 📫 Me chama aí
+
 <p align="center">
-  Feito com verdade, atitude e garra por <strong>Luis Filipe</strong> 💪
+  <a href="https://www.linkedin.com/in/luisfilipe" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LuisFilipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/luisfilipe_oficial" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@luisfilipe__oficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/55" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-Me_Chama-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
+
+---
+
+<p align="center" style="font-size:12px; color:#888;">
+  Feito com garra e coração por <strong>Luis Filipe</strong> 💥
+</p>
+
 
